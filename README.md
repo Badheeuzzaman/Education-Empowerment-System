@@ -1,6 +1,5 @@
 # 🍊 Educational Empowerment System
-PHP Educational Empowerment System developed for schools or small institutes. You can use this to maintain record's related to students, teachers, and other. [Click here to view a live demo](http://school-management-system.000.pe/?i=1)
-
+PHP Educational Empowerment System developed for schools or small institutes. You can use this to maintain record's related to students, teachers, and other.
 
 
 ## 🥏 Technolgies Used 
@@ -101,10 +100,10 @@ PHP Educational Empowerment System developed for schools or small institutes. Yo
    <br><br>
    Copy the downloaded folder and place it into htdocs folder. Located at <i>C:\xampp\htdocs</i>
    <br><br>
-   make sure your directory setup is like : <i>C:\xampp\htdocs\school-management-system\ </i> : and index.php file is available on the that location
+   make sure your directory setup is like : <i>C:\xampp\htdocs\Educational-Empowerment-system\ </i> : and index.php file is available on the that location
 
 <b>Step-4 :</b> Run the application <br>
-   <b> visit on the url : <i>http://localhost/school-management-system</i> </b>
+   <b> visit on the url : <i>http://localhost/Educational-Empowerment-system</i> </b>
    <br> Visit to the given URL to see the running website
 
 ## 🔐 Emails and Passwords
